@@ -53,8 +53,6 @@ public class Main {
         System.out.println("1° número: " + num1);
         System.out.println("2° número: " + num2);
         System.out.print("Soma: " + (num1 + num2));
-
-
         
 
     }
